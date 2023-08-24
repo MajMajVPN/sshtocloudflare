@@ -1,5 +1,6 @@
 
-# sshtocloudflare
+# SshToCloudflare
+<div dir=auto>
 
 تبدیل ادرس آی پی سرور ایران به آدرس آی پی سالم کلودفلر        
         
@@ -17,21 +18,9 @@
 
 فقت کافیه که دستور زیر رو در ترمینال سرور ایران اجرا کنین :                        
 
-bash <(curl -Ls https://github.com/atyorkide/sshtocloudflare/blob/main/sshtocloudflare.sh)	
-
-<div dir=auto>
-
-# پنل x-ui
-
-برای راحتی کار و مدیریت کانفیگ های مختلف از پنل x-ui استفاده میکنیم. این پنل توسط افراد مختلفی توسعه داده شده که بهترین نسخه آن [FranzKafkaYu](https://github.com/FranzKafkaYu/x-ui) هست. ما در این آموزش این نسخه از پنل را نصب میکنیم.
-
----
-
-## نصب پنل
-
-ابتدا با دستور زیر وارد پوشه پنل شوید
-
 ```bash
 bash <(curl -Ls https://github.com/atyorkide/sshtocloudflare/blob/main/sshtocloudflare.sh)
-```
+```	
+
+
 </div>
