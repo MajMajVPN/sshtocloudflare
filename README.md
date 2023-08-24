@@ -19,7 +19,7 @@
 فقت کافیه که دستور زیر رو در ترمینال سرور ایران اجرا کنین :                        
 
 ```bash
-bash <(curl -Ls https://github.com/atyorkide/sshtocloudflare/blob/main/sshtocloudflare.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/atyorkide/sshtocloudflare/main/sshtocloudflare.sh)
 ```	
 
 
