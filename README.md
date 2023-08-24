@@ -11,7 +11,8 @@
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/MajMajVPN/sshtocloudflare/main/sshtocloudflare.sh)
-```bash	
+
+```    
 
 ۲ -  آدرس آی پی سرور ایران        
 ۳ -  آدرس آی پی سالم کلودفلر        
