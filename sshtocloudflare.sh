@@ -1,5 +1,4 @@
 #!/bin/bash
-echo $USER
 ssh-keygen
 cat /home/$USER/.ssh/id_rsa.pub >> /home/$USER/.ssh/authorized_keys
 
