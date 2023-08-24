@@ -11,6 +11,4 @@ echo "port iran ra vared konid"
 read iranport
 echo "port kharej ra vared konid"
 read kharejport
-
 ssh -p 22 $USER@$iranip -f -N -L 0.0.0.0:$iranport:$kharejip:$kharejport
-
