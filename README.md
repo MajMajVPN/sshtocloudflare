@@ -16,6 +16,6 @@
 حالا آدرس سرور خودت رو به آدرس سالم کلود فلر تبدیل کردین که اتفاقا برای همه اپراتور ها هم جوابگو هست                
 
 فقت کافیه که دستور زیر رو در ترمینال سرور ایران اجرا کنین :                        
-...bash
+bash
 bash <(curl -Ls https://github.com/atyorkide/sshtocloudflare/blob/main/sshtocloudflare.sh)	
-...bash
+bash
