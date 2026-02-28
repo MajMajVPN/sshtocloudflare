@@ -10,7 +10,7 @@
 ۱-  فقت کافیه که دستور زیر رو در ترمینال سرور ایران اجرا کنین :                        
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/MajMajVPN/sshtocloudflare/main/sshtocloudflare.sh)
+wget https://github.com/MajMajVPN/sshtocloudflare/blob/main/sshtocloudflare.sh -O sshtocloudflare.sh && chmod +x sshtocloudflare.sh && bash sshtocloudflare.sh
 
 ```    
 
